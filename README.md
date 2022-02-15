@@ -17,3 +17,4 @@ routerTestnet = web3.toChecksumAddress('0xD99D1c33F9fC3444f8101754aBC46c52416550
 2) only when liquidity has been added it will purchase token
 
 
+This bot works for all Dexes, nomatter if mainnet or testnet change addresses accordingly
