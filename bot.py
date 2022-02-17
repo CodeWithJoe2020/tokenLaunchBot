@@ -15,7 +15,7 @@ print(web3.isConnected())
 #Pancakeswap Factory & Router contracts for mainnet
 factoryTestnet = web3.toChecksumAddress('0xb7926c0430afb07aa7defde6da862ae0bde767bc')    #0x6725F303b657a9451d8BA641348b6761A6CC7a17         0xb7926c0430afb07aa7defde6da862ae0bde767bc
 
-routerTestnet = web3.toChecksumAddress('0xD99D1c33F9fC3444f8101754aBC46c52416550D1')
+routerTestnet = web3.toChecksumAddress('0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3')
 
 
 #Token WBNB Main & Testnet 
