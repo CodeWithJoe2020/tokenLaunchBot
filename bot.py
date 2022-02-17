@@ -1,7 +1,6 @@
 # import the following dependencies
 import json
 from web3 import Web3
-import asyncio
 from threading import Timer
 import time
 import sys
